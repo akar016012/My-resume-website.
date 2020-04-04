@@ -1,0 +1,49 @@
+body{
+  background: #E8DCEA;
+}
+.content{
+  size: 10px;
+}
+h3{
+  font-size: 30px;
+  box-shadow: 0 4px 8px 0 black;
+  opacity: 70%;
+  background: rgb(14, 118, 136);
+  width: 200px;
+  color: 	#E8DCEA;
+}
+h2{
+  font-size: 30px;
+  box-shadow: 0 4px 8px 0 black;
+  opacity: 70%;
+  background: rgb(131, 10, 100);
+  width: 70%;
+  color: 	#E8DCEA;
+}
+#h4{
+  font-size: 30px;
+  box-shadow: 0 4px 8px 0 black;
+  opacity: 70%;
+  background: rgb(184, 152, 10);
+  width: 70%;
+  color: 	rgb(220, 228, 234);
+}
+#h5{
+  font-size: 30px;
+  box-shadow: 0 4px 8px 0 black;
+  opacity: 70%;
+  background: rgb(70, 134, 9);
+  width: 70%;
+  color: 	rgb(220, 228, 234);
+}
+#ba{
+  color: rgb(116, 9, 45);
+  font-size: 150%;
+  transition: color 400ms ease-in-out;
+}
+#ba:hover{
+  color: black;
+}
+#SigInt{
+  font-size: 20px;
+}

@@ -1,0 +1,24 @@
+body {
+    background: black;
+}
+.logo{
+    border-radius:90%;
+    margin: 300px;
+    opacity: 30%;
+    background: black;
+    transition: opacity 300ms ease-in-out ;
+}
+.logo:hover{
+  background: black;
+  opacity: 100%;
+}
+.logo:active{
+  opacity: 20%;
+}
+#text{
+    font-family: 'Lacquer' ;
+    font-size: 10mm;
+}
+#click{
+  color: white;
+}
